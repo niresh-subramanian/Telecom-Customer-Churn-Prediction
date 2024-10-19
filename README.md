@@ -1,2 +1,2 @@
 # Telecom-Customer-Churn-Prediction
-Engineered statistical learning methods (Ada Boosting, SVC, Neural Networks, Logistic Regression, XGBoost) using Scikit-learn and TensorFlow python libraries for a telecommunication company's customer churn prediction. 
+Engineered statistical learning methods (Ada Boosting, SVC, Neural Networks, Logistic Regression, XGBoost) using Scikit-learn and TensorFlow python libraries for a telecommunication company's customer churn prediction. Achieved 0.76 sensitivity and >1 lift for 30% of the data through data mining, EDA, feature engineering, and model optimization via hyperparameter tuning.
